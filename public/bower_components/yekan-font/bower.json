@@ -1,0 +1,27 @@
+{
+  "name": "yekan-font",
+  "authors": [
+    "Saeed <saeed.sajadi@gmail.com>"
+  ],
+  "description": "yekan font for web developers",
+  "main": "css/yekan-font.css",
+  "keywords": [
+    "yekan",
+    "yekan font",
+    "font",
+    "b yaken",
+    "B Yekan",
+    "Yekan"
+  ],
+  "moduleType": "globals",
+  "ignore": [
+    "/.*"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/smart-twists/yekan-font",
+  "version": "1.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smart-twists/yekan-font"
+  }
+}
